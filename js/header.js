@@ -20,7 +20,7 @@
 
 
     if (window.isMobile()) {
-document.addEventListener("touchstart", function () {}, true);
+        document.addEventListener("touchstart", function () {}, true);
         //close links popup  by any click on screen
         $('html,body').click(function () {
             $(".mob_menu_btn").removeClass("open")

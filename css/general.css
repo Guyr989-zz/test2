@@ -1128,9 +1128,4 @@ footer {
         top: 60px;
     }
 
-
-    .tap-btn:hover {
-        transform: scale(.8);
-        box-shadow: 0px 5px 10px rgba(20, 20, 20, .6);
-    }
 }
